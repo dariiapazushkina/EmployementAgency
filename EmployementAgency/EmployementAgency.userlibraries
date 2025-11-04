@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.postgresql:postgresql:42.6.0">
+    <archive path="C:/Users/User/.m2/repository/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar" />
+  </library>
+  <library name="Maven: org.checkerframework:checker-qual:3.31.0">
+    <archive path="C:/Users/User/.m2/repository/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="C:/Users/User/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.13.2">
+    <archive path="C:/Users/User/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter:5.13.0-RC1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/jupiter/junit-jupiter/5.13.0-RC1/junit-jupiter-5.13.0-RC1.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.3.0">
+    <archive path="C:/Users/User/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.13.0-RC1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.13.0-RC1/junit-jupiter-api-5.13.0-RC1.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/User/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.13.0-RC1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/platform/junit-platform-commons/1.13.0-RC1/junit-platform-commons-1.13.0-RC1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.13.0-RC1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.13.0-RC1/junit-jupiter-engine-5.13.0-RC1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-params:5.13.0-RC1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.13.0-RC1/junit-jupiter-params-5.13.0-RC1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.13.0-RC1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/platform/junit-platform-engine/1.13.0-RC1/junit-platform-engine-1.13.0-RC1.jar" />
+  </library>
+</eclipse-userlibraries>
+
